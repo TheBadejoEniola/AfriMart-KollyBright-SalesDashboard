@@ -48,7 +48,7 @@ This project was created as part of a data analysis portfolio to demonstrate my 
 ---
 ## Dashboard Preview
 
-![AfiMart-KollyBright-Sales-Dashboard](AfiMart-Sales-Performance-Overview)
+![AfiMart-KollyBright-Sales-Dashboard](AfiMart-Sales-Performance-Overview.png)
 
 ---
 ## Key Insights
