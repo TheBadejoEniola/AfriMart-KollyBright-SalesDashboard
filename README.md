@@ -68,10 +68,12 @@ Key Insights
 
 ---
 ## Files in this Repository
-- [Sales Dataset]()
+- [Sales Dataset](012_AfriMart_KollyBright_Sales_Dataset.xlsx)
 - [PowerBI Report File](AfriMart-KollyBright-Sales-Dashboard)
-- [Dashboard Screenshots](AfiMart-Sales-Performance-Overview.png)
-- [Company Logo]
+- [Sale Performance Dashboard Screenshots](AfiMart-Sales-Performance-Overview.png)
+- [Product Performance Dashboard Screenshot](AfriMart-Product-Performance-Dashboard)
+- [Country Deep-dive Dashboard Screenshot](AfriMart-Country-Deepdive)
+- [Company Logo](logo_afrimart-logo.png)
 - README.md
 
 ---
