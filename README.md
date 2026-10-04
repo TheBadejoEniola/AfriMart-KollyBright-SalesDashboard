@@ -70,7 +70,7 @@ Key Insights
 ## Files in this Repository
 - [Sales Dataset]()
 - [PowerBI Report File](AfriMart-KollyBright-Sales-Dashboard)
-- [Dashboard Screenshots](AfiMart-Sales-Performance-Overview)
+- [Dashboard Screenshots](AfiMart-Sales-Performance-Overview.png)
 - [Company Logo]
 - README.md
 
